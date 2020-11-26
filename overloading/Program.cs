@@ -6,12 +6,9 @@ namespace overloading
     {
         static void Main(string[] args)
         {
-            
             Child gp = new GrandChild();
-
             gp.print();
             
-
             /*
             Points to be noted on: GrandParent gp = new GrandChild();
             
