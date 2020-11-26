@@ -1,0 +1,13 @@
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.exe
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.deps.json
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.runtimeconfig.json
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.runtimeconfig.dev.json
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.dll
+D:\MyGit\csharp\overloading\bin\Debug\netcoreapp3.1\overloading.pdb
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.csprojAssemblyReference.cache
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.AssemblyInfoInputs.cache
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.AssemblyInfo.cs
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.csproj.CoreCompileInputs.cache
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.dll
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.pdb
+D:\MyGit\csharp\overloading\obj\Debug\netcoreapp3.1\overloading.genruntimeconfig.cache
